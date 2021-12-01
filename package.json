@@ -1,0 +1,26 @@
+{
+  "name": "dockernodejs",
+  "version": "1.0.0",
+  "description": "Docker NodeJS Starter",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDelfini/DockerNodeJS-Starter.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs"
+  ],
+  "author": "Dennis James Matildo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDelfini/DockerNodeJS-Starter/issues"
+  },
+  "homepage": "https://github.com/JamesDelfini/DockerNodeJS-Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
